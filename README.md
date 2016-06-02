@@ -14,6 +14,7 @@ This workflow serves as a starting point for building Angular 1.x applications u
 * Testing environment using karma to run tests and jasmine as the framework.
 * Code coverage when tests are run.
 * No gulp and no grunt, just npm scripts.
+* 稍加修改添加了sass支持及文件组织方式
 
 >Warning: Make sure you're using the latest version of Node.js and NPM
 
